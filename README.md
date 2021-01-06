@@ -1,4 +1,4 @@
-[![Site preview](/public/myfile.png)](https://sayyam03.github.io/)
+[![Site preview](/public/myfile.png)](https://sayyam03.github.io/home)
 
 ## Technology Stack 🛠️
 
